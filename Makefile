@@ -1,5 +1,5 @@
-VER=1.7.2
-REL=2
+VER=1.9.5
+REL=1
 
 all: clean
 	# Download
